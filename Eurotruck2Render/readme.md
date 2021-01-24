@@ -7,9 +7,9 @@
 ### 植被相关
 
 欧卡2的植被效果如图所示：
-![grass1](./grass1.jpg)
-![grass2](./grass2.jpg)
-![grass3](./grass3.jpg)
+![./img/grass1](./grass1.jpg)
+![./img/grass2](./grass2.jpg)
+![./img/grass3](./grass3.jpg)
 主要由以下部分组成：
 
 * 完全无阴影无AO的草
@@ -23,32 +23,32 @@
 ### 地形与静态建筑
 
 道路路面贴图很细，并且有一层来模拟轮胎的效果。地形与静态建筑有明显的LoD，并且根据不同类型设置了不同的加载距离。对于一些比较细但是不重要的模型，甚至没有阴影，如路肩的台阶：
-![env1](./env1.jpg)
+![./img/env1](./env1.jpg)
 
 对于桥梁等建筑，基本都使用了同样的一套模型与贴图，最大限度重复使用资源：
-![env2](./env2.jpg)
+![./img/env2](./env2.jpg)
 
 栏杆的面数很低，而且曲线离散化的步长很长，甚至没有法向贴图来做平滑：
-![env3](./env3.jpg)
+![./img/env3](./env3.jpg)
 
 ## 光照部分
 
 白天和晚上使用同一套AO，光影使用实时动态光，下图可见明显的阴影贴图分辨率不足的锯齿：
-![light1](./light1.jpg)
+![./img/light1](./light1.jpg)
 
 游戏极大的限制了阴影贴图绘制距离，大约5m内为一级，5m~100m为第二级，100~200m为第三级，再远就没有阴影，只有AO
-![light2](./light2.jpg)
+![./img/light2](./light2.jpg)
 
 不同于日照，游戏内的其它灯光均不产生阴影，降低了资源消耗，这也导致在夜里场景里完全没有阴影，只有模型AO的效果：
-![light3](./light3.jpg)
+![./img/light3](./light3.jpg)
 
 运动的车辆应该是使用SH来实时计算的AO：
-![light4](./light4.jpg)
+![./img/light4](./light4.jpg)
 
 ## 后处理
 
 太阳的体积光：
-![post1](./post1.jpg)
+![./img/post1](./post1.jpg)
 
 雾天的体积雾与车窗上的雨滴效果：
-![post2](./post2.jpg)
+![./img/post2](./post2.jpg)
