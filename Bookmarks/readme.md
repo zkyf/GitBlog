@@ -1,5 +1,9 @@
 # 参考资料列表
 
+## 工具篇
+
+* [Unreal Engine 4 Optimization Guide - Intel](https://software.intel.com/content/www/us/en/develop/articles/unreal-engine-4-optimization-tutorial-part-1.html)
+
 ## UE引擎相关
 
 * [UE4 关于主循环的资料](https://zhuanlan.zhihu.com/p/225465983)
