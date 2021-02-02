@@ -3,7 +3,10 @@
 ## UE引擎相关
 
 * [UE4 关于主循环的资料](https://zhuanlan.zhihu.com/p/225465983)
+
 * [Unreal源码学习（一）Tick逻辑总结 - 追风少年的文章 - 知乎](https://zhuanlan.zhihu.com/p/263564514)
+
+* [Unreal 4 性能入门指南 - Tanki Zhang的文章 - 知乎](https://zhuanlan.zhihu.com/p/36851846)
 
 ## 一些插件
 
@@ -27,3 +30,7 @@ SSDO、AO Volume、Capsule AO和一些AO的基础概念
 * [《INSIDE》渲染技术分析](https://zhuanlan.zhihu.com/p/161426816)
 
 * [[GDC Talk]低复杂，高保真——INSIDE里的渲染技术](https://zhuanlan.zhihu.com/p/161367110)
+
+## 树木渲染
+
+* [Tree\ Foliage Optimization - forums.unrealengine.com](https://forums.unrealengine.com/development-discussion/rendering/1630394-tree-foliage-optimization)
