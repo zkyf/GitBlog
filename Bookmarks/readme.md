@@ -12,6 +12,8 @@
 
 * [Unreal 4 性能入门指南 - Tanki Zhang的文章 - 知乎](https://zhuanlan.zhihu.com/p/36851846)
 
+* [UE4 – Be careful with the Construction Script - DAhe的文章 - 知乎](https://zhuanlan.zhihu.com/p/68398185)
+
 ## 一些插件
 
 * [UE4智能热更新插件](https://zhuanlan.zhihu.com/p/179304693)
