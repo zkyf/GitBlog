@@ -44,3 +44,7 @@ SSDO、AO Volume、Capsule AO和一些AO的基础概念
 ## 树木渲染
 
 * [Tree\ Foliage Optimization - forums.unrealengine.com](https://forums.unrealengine.com/development-discussion/rendering/1630394-tree-foliage-optimization)
+
+## GIS 资源
+
+* [全国地理信息资源目录服务系统](https://www.webmap.cn/main.do?method=index)
