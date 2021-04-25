@@ -24,6 +24,8 @@
 
 * [《Exploring in UE4》多线程机制详解[原理分析] - Jerish的文章 - 知乎](https://zhuanlan.zhihu.com/p/38881269)
 
+* [UE4异步编程专题 - 线程池FQueuedThreadPool - 卜恪的文章 - 知乎](https://zhuanlan.zhihu.com/p/62364309)
+
 ## 一些插件
 
 * [UE4智能热更新插件](https://zhuanlan.zhihu.com/p/179304693)
