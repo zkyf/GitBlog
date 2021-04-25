@@ -20,6 +20,10 @@
 
 * [UE4 UObject反射系列(一) Class相关 - 孤傲雕的文章 - 知乎](https://zhuanlan.zhihu.com/p/75533335)
 
+### 多线程
+
+* [《Exploring in UE4》多线程机制详解[原理分析] - Jerish的文章 - 知乎](https://zhuanlan.zhihu.com/p/38881269)
+
 ## 一些插件
 
 * [UE4智能热更新插件](https://zhuanlan.zhihu.com/p/179304693)
