@@ -10,6 +10,9 @@
 * [UE4 – Be careful with the Construction Script - DAhe的文章 - 知乎](https://zhuanlan.zhihu.com/p/68398185)
 * [Gamemakin UE4 Style Guide](https://github.com/Allar/ue4-style-guide)
 
+### 物理
+* [UE4物理模块（三）---碰撞查询（上） - Jerry的文章 - 知乎](https://zhuanlan.zhihu.com/p/60840943)
+
 ### UBT
 * [UE4 Intellisense Errors With USTRUCT - 25Hr的文章 - 知乎](https://zhuanlan.zhihu.com/p/75004518)
 
