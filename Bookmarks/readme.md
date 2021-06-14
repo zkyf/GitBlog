@@ -66,6 +66,7 @@
 
 ### 动画
 * [UE4动画系统的那些事（一）：UE4动画系统基础 - 奶帆的文章 - 知乎](https://zhuanlan.zhihu.com/p/62401630)
+* [在C++中自己实现动画系统(一)：骨骼动画与编辑器](https://www.gameres.com/478091.html)
 
 ## 其它引擎
 * [Awesome Frosbite Engine](https://github.com/mc-gulu/dev-awesomenesses/blob/master/awesome-frostbite-engine.md)
