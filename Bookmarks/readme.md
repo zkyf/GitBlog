@@ -67,6 +67,7 @@
 ### 动画
 * [UE4动画系统的那些事（一）：UE4动画系统基础 - 奶帆的文章 - 知乎](https://zhuanlan.zhihu.com/p/62401630)
 * [在C++中自己实现动画系统(一)：骨骼动画与编辑器](https://www.gameres.com/478091.html)
+* [Unreal Engine 4 Animation Essentials Tutorial Series](https://www.youtube.com/watch?v=1kbQzA9K1Fs)
 
 ### 参考书
 * [Unreal Engine 4 Scripting With C++ Cookbook](https://kupdf.net/download/unreal-engine-4-scripting-with-c-cookbook_58a4b8f16454a76e72b1e914_pdf)
