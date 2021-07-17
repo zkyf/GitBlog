@@ -38,6 +38,9 @@
 
 ### 渲染
 
+#### 光照
+* [UE4光照基础概念和效果总结](https://www.jianshu.com/p/37b4d30488d2)
+
 #### AA/PP
 * [深入浅出Temporal Antialising - chopper的文章 - 知乎](https://zhuanlan.zhihu.com/p/142922246)
 * [基于后期的UE4描边材质与扫描线结合效果 - 蛰伏的神的文章 - 知乎](https://zhuanlan.zhihu.com/p/94146313)
