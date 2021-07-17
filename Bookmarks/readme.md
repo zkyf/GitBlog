@@ -82,3 +82,6 @@
 
 ## GIS 资源
 * [全国地理信息资源目录服务系统](https://www.webmap.cn/main.do?method=index)
+
+## 资源列表
+* [ambientCG - 贴图库](https://ambientcg.com/)
