@@ -39,6 +39,9 @@
 
 ### 渲染
 
+#### 材质系统
+* [UE4入门（一）UE4里主材质节点的基本属性](https://www.jianshu.com/p/656e4fca5502)
+
 #### 光照
 * [UE4光照基础概念和效果总结](https://www.jianshu.com/p/37b4d30488d2)
 
