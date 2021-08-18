@@ -1,7 +1,11 @@
 # 参考资料列表
 
+## 渲染管线
+* [细说图形学渲染管线](https://positiveczp.github.io/%E7%BB%86%E8%AF%B4%E5%9B%BE%E5%BD%A2%E5%AD%A6%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF.html)
+
 ## GL API
 * [游戏引擎随笔 0x13：现代图形 API 的 Bindless - 丛越的文章 - 知乎](https://zhuanlan.zhihu.com/p/136449475)
+* [OpenGL图形渲染管线、VBO、VAO、EBO概念及用例](https://blog.csdn.net/dcrmg/article/details/53556664)
 
 ## UE
 ### 工具篇
