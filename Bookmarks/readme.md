@@ -3,7 +3,7 @@
 ## 渲染管线
 * [细说图形学渲染管线](https://positiveczp.github.io/%E7%BB%86%E8%AF%B4%E5%9B%BE%E5%BD%A2%E5%AD%A6%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF.html)
 * [渲染方程Rendering equation - papalqi的文章 - 知乎](https://zhuanlan.zhihu.com/p/52497510)
-* [微表面模型－PBR渲染管线的材质](https://blog.uwa4d.com/archives/Study_PBR.html)
+* [基于物理的渲染—更精确的微表面分布函数GGX - 张鑫的文章 - 知乎](https://zhuanlan.zhihu.com/p/25539396)
 
 ## GL API
 * [游戏引擎随笔 0x13：现代图形 API 的 Bindless - 丛越的文章 - 知乎](https://zhuanlan.zhihu.com/p/136449475)
