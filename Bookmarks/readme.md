@@ -37,6 +37,7 @@
 * [なぜなにFProperty - 対応方法と改善点 -](https://www.youtube.com/watch?v=tqzJSVrnqgY)
 * [UE4 Delegate 实现原理分析 - 星辰大海呀的文章 - 知乎](https://zhuanlan.zhihu.com/p/165126317)
 * [UE4[C++]UEnum枚举相关使用 - 大侠刘茗的文章 - 知乎](https://zhuanlan.zhihu.com/p/68704087)
+* [UE4中的智能指针](https://stonelzp.github.io/UE4%E4%B8%AD%E7%9A%84%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88/)
 
 #### 多线程
 * [《Exploring in UE4》多线程机制详解[原理分析] - Jerish的文章 - 知乎](https://zhuanlan.zhihu.com/p/38881269)
