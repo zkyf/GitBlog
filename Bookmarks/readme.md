@@ -1,9 +1,13 @@
 # 参考资料列表
 
+## GPU架构
+* [GPU架构之处理模块 - Coresi7的文章 - 知乎](https://zhuanlan.zhihu.com/p/79715351)
+
 ## 渲染管线
 * [细说图形学渲染管线](https://positiveczp.github.io/%E7%BB%86%E8%AF%B4%E5%9B%BE%E5%BD%A2%E5%AD%A6%E6%B8%B2%E6%9F%93%E7%AE%A1%E7%BA%BF.html)
 * [渲染方程Rendering equation - papalqi的文章 - 知乎](https://zhuanlan.zhihu.com/p/52497510)
 * [基于物理的渲染—更精确的微表面分布函数GGX - 张鑫的文章 - 知乎](https://zhuanlan.zhihu.com/p/25539396)
+* [Mipmap 和 过滤 （看完不理解你打我）](https://blog.csdn.net/paxis0813/article/details/107885924?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control)
 
 ## GL API
 * [游戏引擎随笔 0x13：现代图形 API 的 Bindless - 丛越的文章 - 知乎](https://zhuanlan.zhihu.com/p/136449475)
