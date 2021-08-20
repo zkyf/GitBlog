@@ -8,6 +8,7 @@
 * [渲染方程Rendering equation - papalqi的文章 - 知乎](https://zhuanlan.zhihu.com/p/52497510)
 * [基于物理的渲染—更精确的微表面分布函数GGX - 张鑫的文章 - 知乎](https://zhuanlan.zhihu.com/p/25539396)
 * [Mipmap 和 过滤 （看完不理解你打我）](https://blog.csdn.net/paxis0813/article/details/107885924?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control)
+* [虚幻4渲染编程（Shader篇）【第一卷：虚幻自身的延迟渲染管线】 - YivanLee的文章 - 知乎](https://zhuanlan.zhihu.com/p/36630694)
 
 ## GL API
 * [游戏引擎随笔 0x13：现代图形 API 的 Bindless - 丛越的文章 - 知乎](https://zhuanlan.zhihu.com/p/136449475)
