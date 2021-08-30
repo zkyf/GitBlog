@@ -29,6 +29,8 @@
 * [Gamemakin UE4 Style Guide](https://github.com/Allar/ue4-style-guide)
 * [[UE4]Constructor与Runtime两种环境下创建Component并Attach的方式](https://dawnarc.com/2016/05/ue4constructor%E4%B8%8Eruntime%E4%B8%A4%E7%A7%8D%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%88%9B%E5%BB%BAcomponent%E5%B9%B6attach%E7%9A%84%E6%96%B9%E5%BC%8F/)
 
+#### UnrealPak
+* [运行时读取PAK文件 - 安宁的文章 - 知乎](https://zhuanlan.zhihu.com/p/79209172)
 #### 物理
 * [UE4物理模块（三）---碰撞查询（上） - Jerry的文章 - 知乎](https://zhuanlan.zhihu.com/p/60840943)
 
