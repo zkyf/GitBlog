@@ -14,6 +14,7 @@
 ## GL API
 * [游戏引擎随笔 0x13：现代图形 API 的 Bindless - 丛越的文章 - 知乎](https://zhuanlan.zhihu.com/p/136449475)
 * [OpenGL图形渲染管线、VBO、VAO、EBO概念及用例](https://blog.csdn.net/dcrmg/article/details/53556664)
+* [Vulkan Tutorial](https://vulkan-tutorial.com/Introduction)
 
 ## UE
 ### 工具篇
