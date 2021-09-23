@@ -1,5 +1,9 @@
 # 参考资料列表
 
+## 线性代数
+
+* [旋转矩阵(Rotate Matrix)的性质分析](https://www.cnblogs.com/caster99/p/4703033.html)
+
 ## GPU架构
 * [GPU架构之处理模块 - Coresi7的文章 - 知乎](https://zhuanlan.zhihu.com/p/79715351)
 
