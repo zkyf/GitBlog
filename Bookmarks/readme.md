@@ -3,6 +3,7 @@
 ## 线性代数
 
 * [旋转矩阵(Rotate Matrix)的性质分析](https://www.cnblogs.com/caster99/p/4703033.html)
+* [图形学 位移，旋转，缩放矩阵变换](https://www.jianshu.com/p/ac1b34420be7)
 
 ## GPU架构
 * [GPU架构之处理模块 - Coresi7的文章 - 知乎](https://zhuanlan.zhihu.com/p/79715351)
