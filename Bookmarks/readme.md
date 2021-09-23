@@ -37,6 +37,7 @@
 
 #### UnrealPak
 * [运行时读取PAK文件 - 安宁的文章 - 知乎](https://zhuanlan.zhihu.com/p/79209172)
+* [Unreal: Dynamic load map from Pak file](https://www.cnblogs.com/psklf/p/14778289.html)
 #### 物理
 * [UE4物理模块（三）---碰撞查询（上） - Jerry的文章 - 知乎](https://zhuanlan.zhihu.com/p/60840943)
 
