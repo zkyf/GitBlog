@@ -26,7 +26,6 @@
 * [Unreal Engine 4 Optimization Guide - Intel](https://software.intel.com/content/www/us/en/develop/articles/unreal-engine-4-optimization-tutorial-part-1.html)
 * [UE4智能热更新插件](https://zhuanlan.zhihu.com/p/179304693)
 * [[UE4]Level BlueprintをDiffする（差分を見る）方法について](https://qiita.com/EGJ-Kaz_Okada/items/5be2df3c7fff8c394193)
-* [聊一聊UE4中的pak - 弘竣的文章 - 知乎](https://zhuanlan.zhihu.com/p/333857439)
 
 ### UE引擎相关
 * [UE4 关于主循环的资料 - qbkivlin的文章 - 知乎](https://zhuanlan.zhihu.com/p/225465983)
@@ -36,6 +35,7 @@
 * [[UE4]Constructor与Runtime两种环境下创建Component并Attach的方式](https://dawnarc.com/2016/05/ue4constructor%E4%B8%8Eruntime%E4%B8%A4%E7%A7%8D%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%88%9B%E5%BB%BAcomponent%E5%B9%B6attach%E7%9A%84%E6%96%B9%E5%BC%8F/)
 
 #### UnrealPak
+* [聊一聊UE4中的pak - 弘竣的文章 - 知乎](https://zhuanlan.zhihu.com/p/333857439)
 * [运行时读取PAK文件 - 安宁的文章 - 知乎](https://zhuanlan.zhihu.com/p/79209172)
 * [Unreal: Dynamic load map from Pak file](https://www.cnblogs.com/psklf/p/14778289.html)
 #### 物理
