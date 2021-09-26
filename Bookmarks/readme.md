@@ -38,6 +38,7 @@
 * [聊一聊UE4中的pak - 弘竣的文章 - 知乎](https://zhuanlan.zhihu.com/p/333857439)
 * [运行时读取PAK文件 - 安宁的文章 - 知乎](https://zhuanlan.zhihu.com/p/79209172)
 * [Unreal: Dynamic load map from Pak file](https://www.cnblogs.com/psklf/p/14778289.html)
+* [UE4 Pak 相关知识总结](https://arcecho.github.io/2017/07/02/UE4-Pak-%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93/)
 #### 物理
 * [UE4物理模块（三）---碰撞查询（上） - Jerry的文章 - 知乎](https://zhuanlan.zhihu.com/p/60840943)
 
